@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;1,600&family=Fjalla+One&family=Fredericka+the+Great&display=swap");
+
+// font-family: 'Crimson Pro', serif;
+// font-family: 'Fjalla One', sans-serif;
+// font-family: 'Fredericka the Great', cursive;
+
+:root {
+  //Fonts
+  --font-text: "Montserrat", sans-serif;
+  --font-heading: "Fjalla One", sans-serif;
+  --font-hero: "Fredericka the Great", cursive;
+  --earth: #5f4620;
+  --earth-label: #5f4620ce;
+  --grey: #f9f7f7;
+  --brown: #c08e23;
+}
+
+@import "base.scss";
+@import "mixins.scss";
