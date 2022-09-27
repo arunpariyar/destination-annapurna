@@ -1,13 +1,12 @@
 <template>
-  <Nav />
-  <h1>Destination Annapurna</h1>
+  <Header />
 </template>
 <script>
-import Nav from "./components/Nav.vue";
+import Header from "./components/Header.vue";
 export default {
   name: "App",
   components: {
-    Nav,
+    Header,
   },
 };
 </script>

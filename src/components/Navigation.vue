@@ -18,30 +18,31 @@
 </template>
 <script>
 export default {
-  name: "Nav",
+  name: "Navigation",
 };
 </script>
-<style lang="scss">
+<style lang="scss" scoped>
+@import "../assets/mixins.scss";
 .nav {
   display: flex;
   justify-content: space-between;
   padding: 4rem 8rem;
   align-items: center;
-  // @include respond(tab-land) {
-  //   padding: 4rem 4rem;
-  // }
-  // @include respond(tab-port) {
-  //   padding: 4rem 2rem;
-  // }
+  @include respond(tab-land) {
+    padding: 4rem 4rem;
+  }
+  @include respond(tab-port) {
+    padding: 4rem 2rem;
+  }
 
   &__links {
     display: flex;
     align-items: center;
     justify-content: space-between;
     list-style: none;
-    // @include respond(tab-port) {
-    //   display: block;
-    // }
+    @include respond(tab-port) {
+      display: block;
+    }
   }
   &__link:link,
   &__link:visited {
