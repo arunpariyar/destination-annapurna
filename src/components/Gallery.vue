@@ -5,7 +5,7 @@
     <div class="gallery">
       <figure class="gallery__photos gallery__photos--1">
         <img
-          src="../assets/images/gallery/suspended bridge-Pakding-Nepal.jpg"
+          src="../assets/images/gallery/suspended-bridge-Pakding-Nepal.jpg"
           alt="suspended Bridge Phakding"
           class="gallery__photo"
         />
@@ -19,7 +19,7 @@
       </figure>
       <figure class="gallery__photos gallery__photos--3">
         <img
-          src="../assets/images/gallery/Annapurna Peak and pass in the Himalaya mountains.jpg"
+          src="../assets/images/gallery/annapurna-peak-and-pass-in-the-himalaya-mountains.jpg"
           alt="Annapurna Peak and pass in the Himalaya mountains"
           class="gallery__photo"
         />
@@ -78,7 +78,7 @@
 </template>
 <script>
 export default {
-  name: "Gallery",
+  name: 'Gallery',
 };
 </script>
 <style lang="scss" scoped>
