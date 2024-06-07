@@ -1,6 +1,6 @@
 # destination-annapurna
 
-Destination Annapurna is a portfolio website for an adventure travel company based in Nepal that aims to make the Annapurna Region of Nepal accessible to adventure lovers all over the world.
+Destination Annapurna is a landing page for an adventure travel company based in Nepal that aims to make the Annapurna Region of Nepal accessible to adventure lovers all over the world.
 ![Destination-Annapurna](documentation/Destination%20Annapurna.png)
 
 This repo contains the frontend of the website built with Vue & Sass.
