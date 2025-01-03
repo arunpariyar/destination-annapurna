@@ -24,43 +24,34 @@ A concept prototype for travel company in Nepal, I have now added it to my portf
 
 ## Overview
 
-This is a web-based application that helps users to centrally manage their finances efficiently using modern React and Node.js technologies.
+The Landing page aims to Nepal is adventure destination from travelers from all over the world. The Annapurna Range is top destination for trekkers after the Everest region. This prototype website was aimed to create a vibrant webpage that focuses of introducing Annapurnas with beautiful pictures and show the users the various trips that are available to join. I designed and build the website.
 
 ---
 
 ## Tech Stack
 
-- **Front-end**: TypeScript, React, React Query, React Router, React ChartJS, React Hot Toast, Zod, Vanilla CSS, CSS Modules
-- **Back-end**: TypeScript, Node.js, Express.js, Prisma
-- **Database**: Postgres
-- **Other Tools**: AWS Amplify, CI/CD, Render
+- **Front-end**: VUE, SASS, Flexbox, CSS Grid, Media Queries,
+- **Hosting**: Netlify
 
 ---
 
 ## Features
 
-- View all personal finance data at-a-glance on the Overview page.
-  Perform full CRUD operations (Create, Read, Update, Delete) for budgets and saving pots.
-- View the latest three transactions for each budget category.
-- Track progress towards saving goals for each pot.
-- Add and withdraw money from saving pots effortlessly.
-- Enjoy an optimal layout for the interface on any device,
+- Responsive landing page
+- Styled with Vanilla CSS with extensive use of modern flexbox and CSS grid.
+- Subtle CSS animation to improve user experience.
 
 ---
 
 ## Installation
 
-Provide step-by-step instructions on how to set up the project locally.
-
-Example:
-
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/project-name.git
+   git clone https://github.com/arunpariyar/destination-annapurna.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd project-name
+   cd destination-annapurna
    ```
 3. Install dependencies:
    ```bash
@@ -75,12 +66,9 @@ Example:
 
 ## Usage
 
-Describe how to use the project. Include examples, code snippets, or commands to demonstrate functionality.
-
-Example:
-"To log in, use the default credentials provided in the seed data, or register for a new account."
-
----
+- Scroll down the landing page
+- Hover over buttons to see animations
+- View landing page on various screen sizes.
 
 ## Screenshots
 
